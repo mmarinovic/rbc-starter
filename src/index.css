@@ -3,3 +3,15 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.rbc-today {
+  background-color: inherit !important;
+}
+
+.rbc-day-slot .rbc-time-slot {
+  border-top: 0px !important;
+}
+
+.rbc-event-label {
+  display: none !important;
+}
